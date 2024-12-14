@@ -1,0 +1,28 @@
+
+div{
+    background-color: #f0f8ff;
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+   padding-left: 100px;
+ padding-right: 300px;
+   padding-top: 50px;
+   
+} 
+input{
+    height: 50px;
+    width: 200%;
+
+}
+h1{
+    padding-left: 150px;
+}
+img{
+    padding-left: 100px;
+}
+.first{
+    padding-right: 130px;
+    padding-top: 40px;
+
+}
